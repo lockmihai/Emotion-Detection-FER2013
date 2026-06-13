@@ -1,0 +1,3 @@
+Modifica hiperparametrii modelelor sa obtina rezultate cat mai bune, stiind ca numarul de clase diferite este 7: Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
+
+arata graficul cu matricea de confuzie
